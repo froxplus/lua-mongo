@@ -25,7 +25,7 @@ external_dependencies = {
 		header = 'libmongoc-1.0/mongoc/mongoc.h'
 	},
 	LIBBSON = {
-		header = 'libbson-1.0.0/bson/bson.h'
+		header = 'libbson-1.0/bson.h'
 	},
 }
 build = {
